@@ -38,3 +38,8 @@ Assim podemos simplificar e dizer:
 [Link para o Github da aula 4](https://github.com/alura-cursos/Curso-Java-parte-1-Primeiros-passos/archive/capitulo4.zip)
 
 [Link para o Github da aula 5](https://github.com/alura-cursos/Curso-Java-parte-1-Primeiros-passos/archive/capitulo5.zip)
+
+[Link para o Github da aula 6](https://github.com/alura-cursos/Curso-Java-parte-1-Primeiros-passos/archive/capitulo6.zip)
+
+[Link para o Github da aula 7](https://github.com/alura-cursos/Curso-Java-parte-1-Primeiros-passos/archive/capitulo7.zip)
+

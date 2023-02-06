@@ -1,6 +1,6 @@
 package sintaxevariaveisfluxos;
 
-public class TestaValores {
+public class TesteValores {
     public static void main(String[] args) {
         int primeiro = 5; 
         int segundo = 7;

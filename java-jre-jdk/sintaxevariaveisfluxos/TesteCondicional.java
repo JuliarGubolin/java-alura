@@ -1,6 +1,6 @@
 package sintaxevariaveisfluxos;
 
-public class TestaCondicional {
+public class TesteCondicional {
     public static void main(String[] args) {
         int idade = 20;
         int quentidadePessoas = 3;
