@@ -1,4 +1,4 @@
-## Programação Orientada à Objetos
+## Programação Orientada a Objetos
 
 - Antes, um programa de formulário completo era feito o um único programador
 - Mas agora que mais de uma pessoa trabalha em um projeto, o código pode gerar confusão
@@ -11,8 +11,7 @@
 
 - É a criação dos getters e setters conforme a necessidade (se não precisar de um set, não é necessário criar)
 
-
-## GITHUB
+## GITHUB 💻
 
 [Github da aula 2](https://github.com/alura-cursos/Curso-Java-parte-2-Introdu-o-Orienta-o-a-Objetos/archive/capitulo2.zip)
 

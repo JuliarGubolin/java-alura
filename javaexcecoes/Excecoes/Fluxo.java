@@ -1,4 +1,4 @@
-package javaexcecoes.Excecoes;
+package javaexcecoes.excecoes;
 
 public class Fluxo {
     public static void main(String[] args) {

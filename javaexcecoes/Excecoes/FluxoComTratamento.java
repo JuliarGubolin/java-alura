@@ -1,4 +1,4 @@
-package javaexcecoes.Excecoes;
+package javaexcecoes.excecoes;
 
 public class FluxoComTratamento {
     public static void main(String[] args) {
