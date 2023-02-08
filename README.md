@@ -13,6 +13,9 @@ Repositório para os cursos relacionados a linguagem JAVA da plataforma alura! �
 - Packages
 - JAR e Javadoc
 - Classe Object e String
+- Expressões Lambda
+- Wrappers
+- Arrays, Listas
 
 ## Instrutores 👷
 

@@ -1,6 +1,6 @@
 package javaejavalang.br.com.bytebank.banco.models;
 
-public abstract class Conta {
+public abstract class Conta implements Comparable<Conta>{
 
     protected double saldo;
     private int agencia;
@@ -16,6 +16,25 @@ public abstract class Conta {
         //this.saldo = 100;
         //System.out.println("Estou criando uma conta " + this.numero);
     }
+
+    @Override
+    public int compareTo(Conta outra) {
+        return Double.compare(this.saldo, this.saldo);
+    }
+
+    public boolean ehIgual(Conta outra) {
+
+        if(this.agencia != outra.agencia) {
+            return false;
+        }
+
+        if(this.numero != outra.numero) {
+            return false;
+        }
+
+        return true;
+
+}
 
     public abstract void deposita(double valor);
 
@@ -74,7 +93,7 @@ public abstract class Conta {
 
     @Override
 	public String toString() {
-		return "\n[Agencia: "+this.getAgencia()+"\nNúmero: " +this.getNumero()+ "]";
+		return "\n[Agencia: "+this.getAgencia()+"\nNúmero: " +this.getNumero()+"\nSaldo: "+this.saldo+"]";
 	}
 
 }
