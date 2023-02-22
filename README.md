@@ -16,6 +16,7 @@ Repositório para os cursos relacionados a linguagem JAVA da plataforma alura! �
 - Expressões Lambda
 - Wrappers
 - Arrays, Listas
+- Serialização de objetos
 
 ## Instrutores 👷
 
